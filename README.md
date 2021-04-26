@@ -1,2 +1,2 @@
 # GridcoinMessages
-Gridcpin Message Explorer
+Gridcoin Message Explorer
